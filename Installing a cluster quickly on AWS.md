@@ -1,6 +1,4 @@
 
-# OCP4 Install on AWS
-
 ## bastion node 설정
 
 ##### 1, SSH private key 생성
