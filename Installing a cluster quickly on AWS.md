@@ -36,7 +36,7 @@ mv kubectl /usr/bin/ && mv oc /usr/bin/ && mv openshift-install /usr/bin/
 ```
 openshift-install create cluster --dir=/ocp/  --log-level=debug
 
-? SSH Public Key /root/.ssh/id_rsa
+? SSH Public Key /root/.ssh/id_rsa.pub
 ? Platform aws
 ? AWS Access Key ID xxxxxxxxx
 ? AWS Secret Access Key xxxxxxxxxxxx
